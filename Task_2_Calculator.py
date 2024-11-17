@@ -34,3 +34,5 @@ while True:
             exit()
     except Exception as e:
         print("Error Occured! Please Try Again")
+    finally:
+        continue
